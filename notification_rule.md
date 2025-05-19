@@ -30,10 +30,12 @@ I can create a new notification rule with a name and description.
 1. Admin user will search a client by entering their registered email or customer number, subscriber Id and clicking search. Handle  scenario for both existing and non-existent customer, only existing clients should be able to subscribe to events .
 2. On Success a user will click on the returned Subscriber Information .
 3. Navigate to Subscriber Home . The Subscriber Home should provide these tabs
+   
    a) **Overview**
       - Read Only Details of the Subscriber including the status of the subscriber.
       - Update Call To Action
       - Deactivate Call To Action
+        
    b) **Notification Rules**. with the below information
     - Displaying List of all Notification Rules
     - Ability to add new Rule
