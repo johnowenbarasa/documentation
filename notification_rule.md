@@ -29,7 +29,7 @@ I can create a new notification rule with a name and description.
 ## Notes
 1. Admin user will search a client by entering their registered email or customer number, subscriber Id and clicking search. Handle  scenario for both existing and non-existent customer, only existing clients should be able to subscribe to events .
 2. On Success a user will click on the returned Subscriber Information .
-3. Navigate to Subscriber Home . The Subscriber Home should provide these tabs
+3. Navigate to Subscriber Home . The Subscriber Home should show
    
    a) **Overview**
       - Read Only Details of the Subscriber including the status of the subscriber.
