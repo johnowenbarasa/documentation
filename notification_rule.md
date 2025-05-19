@@ -69,7 +69,7 @@ Notification Rule  Group Details will have the below the tabs
    - **Group Members (Tab)**. Displays List of Members with call to action possibilities (remove, add)
 
 
-## NOTIFICATION RULE GROUP
+## DOMAIN REPRESENTATION
 
 **Domain Rule Representation**
 - ✅ Name
