@@ -68,6 +68,9 @@ Notification Rule  Group Details will have the below the tabs
    - **Group Condition(Tab)**. Displays List of Conditions with call to action possibilities (remove, add, update)
    - **Group Members (Tab)**. Displays List of Members with call to action possibilities (remove, add)
 
+
+## NOTIFICATION RULE GROUP
+
 **Domain Rule Representation**
 - ✅ Name
 - ✅ Description
