@@ -54,6 +54,9 @@ Notification Rule Home should be able to capture and show the below details
      - List Group (should be clickable to allow navigation)
      - Delete
    - **Group (Tab)**
+   - List Of Groups. (Provide ability to add), (Each Group Should Clickable to allow navigation to an individual group) 
+    
+   - 
 
 ---
 
