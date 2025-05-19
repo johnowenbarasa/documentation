@@ -25,6 +25,7 @@ I can create a new notification rule with a name and description.
 
 ✅ I can update or remove groups and members as needed after rule creation.
 
+---
 ## Notes
 1. Admin user will search a client by entering their registered email or customer number, subscriber Id and clicking search. Handle  scenario for both existing and non-existent customer, only existing clients should be able to subscribe to events .
 2. On Success a user will click on the returned Subscriber Information .
@@ -33,7 +34,8 @@ I can create a new notification rule with a name and description.
    - List Of Rules
    
 4. Each Rule should be clickable , to allow navigation to Navigation Rule Home
-   
+---
+
 ### NOTIFICATION RULE HOME
 Notification Rule Home should be able to capture and show the below details
 1. Show Rule Header Information(group details)
@@ -44,6 +46,7 @@ Notification Rule Home should be able to capture and show the below details
      - Delete
    - **Group (Tab)**
 
+---
 
 ## NOTIFICATION RULE GROUP
 
@@ -55,7 +58,6 @@ Notification Rule  Group Details will have the below the tabs
       - Delete
    - **Group Condition(Tab)**. Displays List of Conditions with call to action possibilities (remove, add, update)
    - **Group Members (Tab)**. Displays List of Members with call to action possibilities (remove, add)
-
 
 **Domain Rule Representation**
 - ✅ Name
@@ -79,7 +81,7 @@ Notification Rule  Group Details will have the below the tabs
 - ✅ Mobile Number
 - ✅ Preferred Channel (Mobile or Email)
 
-
+---
 
 
 
