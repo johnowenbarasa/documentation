@@ -56,7 +56,6 @@ Notification Rule Home should be able to capture and show the below details
    - **Group (Tab)**
    - List Of Groups. (Provide ability to add), (Each Group Should Clickable to allow navigation to an individual group) 
     
-   - 
 
 ---
 
@@ -95,9 +94,6 @@ Notification Rule  Group Details will have the below the tabs
 - ✅ Email
 - ✅ Mobile Number
 - ✅ Preferred Channel (Mobile or Email)
-
----
-
 
 
 ---
