@@ -1,4 +1,4 @@
-# 📌 Notification Subscription Task: Implement client subscription functionality
+# 📌 Notification Subscription Task: Implement Customer/Client/Subscriber Notification Rules functionality
 
 ## 🧾 User Story
 
